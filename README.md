@@ -2,11 +2,11 @@
 
 **Participatory Optimized Resource Trading & Execution Registry**
 
-P.O.R.T.E.R ("Porter") is a lightweight program that lets you share some of your device’s computing power to help reduce server load. It’s completely optional, and you’re in control of how much you contribute. In return, you get rewards based on your participation.
+P.O.R.T.E.R ("Porter") is a lightweight program that lets you share some of your device’s computing power to help reduce my server's load. It’s completely optional, and you’re in control of how much you contribute. In return, you get rewards based on your participation.
 
 ## Features
 - **Choose Your Contribution** – Set limits on CPU, RAM, and bandwidth usage.
-- **Earn Rewards** – Get rewarded for the work your device processes.
+- **Earn Rewards** – Get rewarded for the work your device processes, and redeem your work for VM upgrades.
 - **Lightweight & Efficient** – Runs in the background without slowing you down.
 - **Secure & Transparent** – Open-source, so you can see exactly how it works.
 
