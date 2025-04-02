@@ -20,10 +20,10 @@ P.O.R.T.E.R ("Porter") is a lightweight program that lets you share some of your
 - Adjust your settings anytime if you want to contribute more or less.
 
 ## Contributing
-We’d love your help! If you have ideas or want to improve P.Ø.R.T.E.R, feel free to submit a pull request or open an issue.
+I’d love your help! If you have ideas or want to improve porter, feel free to submit a pull request or open an issue.
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For support or questions, open an issue or reach out at [your email or website].
+Open a support ticket.
