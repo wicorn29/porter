@@ -11,7 +11,7 @@ P.O.R.T.E.R ("Porter") is a lightweight program that lets you share some of your
 - **Secure & Transparent** – Open-source, so you can see exactly how it works.
 
 ## Installation
-1. Download the right file for your device from the [Releases](https://github.com/yourusername/porter/releases) page.
+1. Download the right file for your device from the [Releases](https://github.com/wicorn29/porter/releases) page.
 2. Open the file and let it run—just keep the window or tab open.
 
 ## Usage
